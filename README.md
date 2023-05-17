@@ -17,7 +17,7 @@ Download a previous season's GeoJSON file from cyverse. Try to find a GeoJSON fo
 ## Store the GeoJSON and the FieldBook in a directory accessible by the notebook
 Store them preferably in the same directory as the notebook, and change the paths in the designated areas of the code. 
 
-## Manually Inspection 
+## Manual Inspection 
 Go through the code and manually review any fields that seem out of place, and introduce necessary modifications. **Please Note:** PI_Accession and Genotype are different names for the same field.  
 
 ## Run and Upload
